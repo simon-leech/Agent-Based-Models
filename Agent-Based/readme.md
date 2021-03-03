@@ -1,9 +1,8 @@
 # simonl11.github.io
 
 Contents of Files: <br>
-/agentframework.html - simple webpage containing all the code for the Agent and Predator classes used in the model.<br>
-/Model.html - simple webpage containing the code for the Model to run.<br>
-/aboutme.html - simple webpage outlining a description of myself.<br>
+/agentframework.py - containing all the code for the Agent and Predator classes used in the model.<br>
+/MODELWEBSITE.py - containing the code for the Model to run.<br>
 
 Running the model:<br>
 This is an Agent-Based Model that includes agents (sheep) and Predators (wolves) that will eat the sheep. The sheep can also be killed by an infection in the model. <br>
